@@ -1,7 +1,5 @@
 # Word-Hunter
 
-## Due to CAD size constraints I've attached the CAD for this project in a Google Drive folder! View it [here](https://drive.google.com/file/d/1_udwV5zkH8fl0OKaL5F5_xnu4WPKwuJO/view?usp=sharing)!
-
 [Watch Word Hunter in action in this YouTube video!](https://www.youtube.com/watch?v=5xceQJWxchY)
 
 A XY gantry system to play the GamePigeon game Word Hunt. Project for Hack Club Undercity!
